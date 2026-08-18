@@ -1,0 +1,108 @@
+- recorded_at: '2026-07-24T10:40:29'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T10:40:30'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T10:40:30'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T13:01:01'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T13:01:02'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T13:01:02'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T13:01:57'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T13:01:57'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '
+- recorded_at: '2026-07-24T13:01:58'
+  type: manual_fix
+  action: investigate_and_fix
+  source: lint
+  detail: 'E902 The system cannot find the file specified. (os error 2)
+
+    --> src:1:1
+
+
+    Found 1 error.
+
+    '

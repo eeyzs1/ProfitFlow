@@ -1,0 +1,52 @@
+generated/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+node_modules/
+.env
+*.egg-info/
+dist/
+build/
+*.log
+.DS_Store
+Thumbs.db
+.meta-harness/
+# E2E 测试运行时生成的临时项目目录（v2.8.0 runtime layer 验证）
+.e2e-runtime-test/
+meta/pipeline-state.yaml
+memory/generation-log.yaml
+# task.yaml 是 INTERPRET 阶段的运行时输出（会随用户任务变化）。
+# 示例 task 见 tests/task-industrial-control.yaml；首次运行用 --interpret-intent 生成。
+task.yaml
+
+# IDE / tooling working dirs
+.trae/
+.vscode/
+.idea/
+.cursor/
+.continue/
+.aider*
+.claude/
+.gemini/
+.qwen/
+.cody/
+.codeium/
+.tabnine/
+.windsurf/
+.zed/
+.idx/
+.bolt/
+.greptile/
+.copilot/
+# AI IDE 专用 ignore 文件（类似 .gitignore 的本地补充）
+.cursorignore
+.cursorindexingignore
+.codeiumignore
+.aiderignore
+.claudeignore
+# Jupyter / 数据科学常见工作目录
+.ipynb_checkpoints/
+.jupyter/
